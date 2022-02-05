@@ -22,20 +22,207 @@ This video explains the differences between open- and closed-back headphones in 
 
 Don't even think about using in-ear phones (like those that come with your smartphone), mixing on which is the acoustic equivalent of blindfolded graphic design.
 
-| MANUFACTURERs AND MODELs | Estimated PRICE | BACK | DESCRIPTION |
-| --- | --- | --- | --- |
-| Beyerdynamic DT770 Pro 80Ω | $175 | closed | use on laptop headphone out |
-| Beyerdynamic DT770 Pro 250Ω | $175 | closed | use on separate amp |
-| Audio-Technica ATH-M series | $50–$170 | closed | M20x, M30x, M40x, M50x |
-| Sennheiser HD 25-1 II | $170 | closed | &nbsp; |
-| Sennheiser HD 25-SP II | $120 | closed | &nbsp; |
-| Sennheiser HD280 Pro | $90 | closed | &nbsp; |
-| Shure SRH440 | $100 | closed | &nbsp; |
-| AKG K240 MKII | $150 | semi-open | &nbsp; |
-| AKG K240 Studio | $85 | semi-open | at Lewis Music Library |
-| AKG K99 | $80 | semi-open | &nbsp; |
-| AKG K77 | $50 | semi-closed | &nbsp; |
-| AKG K44 | $30 | closed | phasing out of production 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+MANUFACTURERs AND MODELs
+{{< thclose >}}
+{{< thopen >}}
+Estimated PRICE
+{{< thclose >}}
+{{< thopen >}}
+BACK
+{{< thclose >}}
+{{< thopen >}}
+DESCRIPTION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Beyerdynamic DT770 Pro 80Ω
+{{< tdclose >}}
+{{< tdopen >}}
+$175
+{{< tdclose >}}
+{{< tdopen >}}
+closed
+{{< tdclose >}}
+{{< tdopen >}}
+use on laptop headphone out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Beyerdynamic DT770 Pro 250Ω
+{{< tdclose >}}
+{{< tdopen >}}
+$175
+{{< tdclose >}}
+{{< tdopen >}}
+closed
+{{< tdclose >}}
+{{< tdopen >}}
+use on separate amp
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Audio-Technica ATH-M series
+{{< tdclose >}}
+{{< tdopen >}}
+$50–$170
+{{< tdclose >}}
+{{< tdopen >}}
+closed
+{{< tdclose >}}
+{{< tdopen >}}
+M20x, M30x, M40x, M50x
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Sennheiser HD 25-1 II
+{{< tdclose >}}
+{{< tdopen >}}
+$170
+{{< tdclose >}}
+{{< tdopen >}}
+closed
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Sennheiser HD 25-SP II
+{{< tdclose >}}
+{{< tdopen >}}
+$120
+{{< tdclose >}}
+{{< tdopen >}}
+closed
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Sennheiser HD280 Pro
+{{< tdclose >}}
+{{< tdopen >}}
+$90
+{{< tdclose >}}
+{{< tdopen >}}
+closed
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Shure SRH440
+{{< tdclose >}}
+{{< tdopen >}}
+$100
+{{< tdclose >}}
+{{< tdopen >}}
+closed
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+AKG K240 MKII
+{{< tdclose >}}
+{{< tdopen >}}
+$150
+{{< tdclose >}}
+{{< tdopen >}}
+semi-open
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+AKG K240 Studio
+{{< tdclose >}}
+{{< tdopen >}}
+$85
+{{< tdclose >}}
+{{< tdopen >}}
+semi-open
+{{< tdclose >}}
+{{< tdopen >}}
+at Lewis Music Library
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+AKG K99
+{{< tdclose >}}
+{{< tdopen >}}
+$80
+{{< tdclose >}}
+{{< tdopen >}}
+semi-open
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+AKG K77
+{{< tdclose >}}
+{{< tdopen >}}
+$50
+{{< tdclose >}}
+{{< tdopen >}}
+semi-closed
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+AKG K44
+{{< tdclose >}}
+{{< tdopen >}}
+$30
+{{< tdclose >}}
+{{< tdopen >}}
+closed
+{{< tdclose >}}
+{{< tdopen >}}
+phasing out of production
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Table 1: Some headphones suitable for use in this course
 
@@ -51,17 +238,148 @@ Digital Audio Workstation (DAW) Software Package
 
 You will also need a digital audio workstation (DAW) software package (see Table 2). If you are new to DAWs, you should definitely opt for [Reaper](http://reaper.fm/), which is installed on the four iMacs in the Lewis Music Library. Those who prefer to work on their own machine can get get a free two-month trial or buy the non-commercial license. Reaper runs natively on Mac OSX and Windows. There are only two situations in which Reaper might not be your tool of choice. If either one applies to you, make sure to get in touch with me, so we can find a good solution together.
 
-| DAW SOFTWARE PACKAGE | PLATFORMS | Estimated PRICE | DESCRIPTION |
-| --- | --- | --- | --- |
-| {{< td-colspan 4 >}}_**Recommended**_{{< /td-colspan >}} ||||
-| Cockos Reaper |  {{< br >}}{{< br >}} Linux, Mac, Win {{< br >}}{{< br >}}  | from $60 | Free 2-month trial |
-| Ardour | Linux (not recommended for Mac, Win) | from $0 | Open source |
-| {{< td-colspan 4 >}}_**Other Options**_{{< /td-colspan >}} ||||
-| Apple Logic Pro X | Mac | $199 |  Used in MOSS, Music Library |
-| Bitwig Studio | Linux, Mac, Win | from $269 | &nbsp; |
-| MAGIX Samplitude Pro X | Win | $499 |  Free 30-day trial |
-| Avid Prod Tools 12 series | Mac | depends | &nbsp; |
-| Steinberg Cubase 7 Elements | Mac, Win | $99 |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+DAW SOFTWARE PACKAGE
+{{< thclose >}}
+{{< thopen >}}
+PLATFORMS
+{{< thclose >}}
+{{< thopen >}}
+Estimated PRICE
+{{< thclose >}}
+{{< thopen >}}
+DESCRIPTION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+_**Recommended**_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Cockos Reaper
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Linux, Mac, Win
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+from $60
+{{< tdclose >}}
+{{< tdopen >}}
+Free 2-month trial
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Ardour
+{{< tdclose >}}
+{{< tdopen >}}
+Linux (not recommended for Mac, Win)
+{{< tdclose >}}
+{{< tdopen >}}
+from $0
+{{< tdclose >}}
+{{< tdopen >}}
+Open source
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+_**Other Options**_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Apple Logic Pro X
+{{< tdclose >}}
+{{< tdopen >}}
+Mac
+{{< tdclose >}}
+{{< tdopen >}}
+$199
+{{< tdclose >}}
+{{< tdopen >}}
+ Used in MOSS, Music Library
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Bitwig Studio
+{{< tdclose >}}
+{{< tdopen >}}
+Linux, Mac, Win
+{{< tdclose >}}
+{{< tdopen >}}
+from $269
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+MAGIX Samplitude Pro X
+{{< tdclose >}}
+{{< tdopen >}}
+Win
+{{< tdclose >}}
+{{< tdopen >}}
+$499
+{{< tdclose >}}
+{{< tdopen >}}
+ Free 30-day trial
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Avid Prod Tools 12 series
+{{< tdclose >}}
+{{< tdopen >}}
+Mac
+{{< tdclose >}}
+{{< tdopen >}}
+depends
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Steinberg Cubase 7 Elements
+{{< tdclose >}}
+{{< tdopen >}}
+Mac, Win
+{{< tdclose >}}
+{{< tdopen >}}
+$99
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Table 2: DAW packages suitable for use in this course
 

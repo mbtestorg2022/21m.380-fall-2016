@@ -22,33 +22,270 @@ While viewing the slides on your screen, clicking on any "play button" icon ![Pl
 Class Notes
 -----------
 
-| SES # | Class Notes |
-| --- | --- |
-| 1 | [The art of sound recording (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses01_note) |
-| 2 | [Physics of sound (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses02_note) |
-| 3 | [Microphones (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses03_note) |
-| 4 | [Perception of sound (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses04_note) |
-| 5 | [Workshop: MOSS intro and mic handling (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses05_note) |
-| 6 | [Basic sound editing techniques (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses06_note) |
-| 7 | [Workshop: Cables, preamps, patchbays (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses07_note) |
-| 8 | [Filters and EQs (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses08_note) |
-| 9 | [Stereo recording techniques (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses09_note) |
-| 10 | [Dynamics and compression (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses10_note) |
-| 11 | [Workshop: Stereo recording practice (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses11_note) |
-| 12 | [Workshop: Headphone monitoring (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses12_note) |
-| 13 | [Digital audio (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses13_note) |
-| 14 | [Mixing consoles (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses14_note) |
-| 15 | [Student presentations: Recording session plans (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses15_note)  |
-| 16 | [Mixing strategies (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses16_note) |
-| 17 | [Recording session 1 (classical piano solo) (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses17_note) |
-| 18 | [Room acoustics and reverberation (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses18_note) |
-| 19 | [Recording session 2 (R&B group: Love and a Sandwich) (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses19_note) |
-| 20 | [Recording session 3 (progressive metal group: Psience Phiction) (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses20_note) |
-| 21 | [Review, preview (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses21_note) |
-| 22 | [Sound quality and critical listening (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses22_note) |
-| 23 | [Recording session 4 (classical piano trio — violin, cello, piano) (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses23_note) |
-| 24 | [Recording session 5 (classical violin & piano duet) (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses24_note) |
-| 25 | [Mastering techniques (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses25_note) |
-| 26 | [Workshop: Command-line sound editing (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses26_note), [SoX files (ZIP - 2MB)]({{< baseurl >}}/resources/mit21m_380f16_sox_audio_files) (contains 1 .txt file and 19 .wav files) |
-| 27 | [Guest speaker: Al Kooper (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses27_note) |
-| 28 | [Workshop: 5.1 surround sound (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses28_note)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+Class Notes
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+[The art of sound recording (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses01_note)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+[Physics of sound (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses02_note)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+[Microphones (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses03_note)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+[Perception of sound (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses04_note)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+[Workshop: MOSS intro and mic handling (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses05_note)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+[Basic sound editing techniques (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses06_note)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+[Workshop: Cables, preamps, patchbays (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses07_note)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+[Filters and EQs (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses08_note)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+[Stereo recording techniques (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses09_note)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+[Dynamics and compression (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses10_note)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+[Workshop: Stereo recording practice (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses11_note)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+[Workshop: Headphone monitoring (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses12_note)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+[Digital audio (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses13_note)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+[Mixing consoles (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses14_note)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+[Student presentations: Recording session plans (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses15_note) 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+[Mixing strategies (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses16_note)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+[Recording session 1 (classical piano solo) (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses17_note)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+[Room acoustics and reverberation (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses18_note)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+[Recording session 2 (R&B group: Love and a Sandwich) (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses19_note)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+[Recording session 3 (progressive metal group: Psience Phiction) (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses20_note)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+[Review, preview (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses21_note)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+[Sound quality and critical listening (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses22_note)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+[Recording session 4 (classical piano trio — violin, cello, piano) (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses23_note)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+[Recording session 5 (classical violin & piano duet) (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses24_note)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+[Mastering techniques (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses25_note)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+[Workshop: Command-line sound editing (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses26_note), [SoX files (ZIP - 2MB)]({{< baseurl >}}/resources/mit21m_380f16_sox_audio_files) (contains 1 .txt file and 19 .wav files)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+[Guest speaker: Al Kooper (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses27_note)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+[Workshop: 5.1 surround sound (PDF)]({{< baseurl >}}/resources/mit21m_380f16_ses28_note)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

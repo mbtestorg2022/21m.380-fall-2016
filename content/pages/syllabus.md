@@ -65,25 +65,147 @@ Assignments, Quizzes, and Grading
 
 The following coursework will count towards your final grade.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| 3 in-class quizzes | 5% + 5% + 10% = 20% |
-| 15 reading assignments (RD01–RD15) | (5 x 1%) + (10 x 0.5%) = 10% |
-| 2 production analyses (PA1, PA2) | 2 x 5% = 10% |
-| 2 written assignments (WR1, WR2) | 3% + 7% = 10% |
-| 4 sound editing exercises (ED1–ED4) | 4 x 5% = 20% |
-| 2 recording session reports (SR1, SR2) | 3% + 2% = 5% |
-| 3 mixing assignments (MX1–MX3) | 5% + 5% + 15% = 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3 in-class quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+5% + 5% + 10% = 20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15 reading assignments (RD01–RD15)
+{{< tdclose >}}
+{{< tdopen >}}
+(5 x 1%) + (10 x 0.5%) = 10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2 production analyses (PA1, PA2)
+{{< tdclose >}}
+{{< tdopen >}}
+2 x 5% = 10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2 written assignments (WR1, WR2)
+{{< tdclose >}}
+{{< tdopen >}}
+3% + 7% = 10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4 sound editing exercises (ED1–ED4)
+{{< tdclose >}}
+{{< tdopen >}}
+4 x 5% = 20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2 recording session reports (SR1, SR2)
+{{< tdclose >}}
+{{< tdopen >}}
+3% + 2% = 5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3 mixing assignments (MX1–MX3)
+{{< tdclose >}}
+{{< tdopen >}}
+5% + 5% + 15% = 25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Letter grades will be assigned according to their numeric score, as follows.
 
-| LETTER GRADEs | NUMERIC SCOREs |
-| --- | --- |
-| A | 90%–100% |
-| B | 80%–89% |
-| C | 70%–79% |
-| D | 60%–69% |
-| F | 0%–59% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LETTER GRADEs
+{{< thclose >}}
+{{< thopen >}}
+NUMERIC SCOREs
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+A
+{{< tdclose >}}
+{{< tdopen >}}
+90%–100%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+B
+{{< tdclose >}}
+{{< tdopen >}}
+80%–89%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C
+{{< tdclose >}}
+{{< tdopen >}}
+70%–79%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+D
+{{< tdclose >}}
+{{< tdopen >}}
+60%–69%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+F
+{{< tdclose >}}
+{{< tdopen >}}
+0%–59%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Coursework and grading policies
 
