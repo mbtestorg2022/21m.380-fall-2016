@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Photo of two large road cases, one with with rack-mounted electronics
     and a laptop computer, and the other containing several smaller cases with microphones,
     cables, etc.
+parent_uid: a45da55d-e4f9-4254-f91b-ad03c52ebc22
 resourcetype: Image
 title: tools_moss.jpg
 uid: 2df32bbf-14e0-e4d5-43e3-a60025cf8145
