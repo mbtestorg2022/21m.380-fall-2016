@@ -13,7 +13,7 @@ The complete set of lecture slides is given here compiled in a single file. With
 
 _**Important**_: The slides and notes include links to a set of audio examples, provided below in a ZIP file. For these linked examples to work correctly, you must download and save the lecture slides and class notes PDFs, then download and unpack the audio examples ZIP and move its /examples/ folder in the same directory as the slides and notes. This is detailed in the [Instructions to run audio examples (PDF)]({{< baseurl >}}/resources/mit21m_380f16_lec_instructions).
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Complete lecture slides (PDF - 58MB)](/ans7870/21m/21m.380/F16/MIT21M_380F16_lec_slides.pdf)
+[Complete lecture slides (PDF - 58MB)](/ans7870/21m/21m.380/F16/MIT21M_380F16_lec_slides.pdf)
 
 [Audio examples (ZIP - 5MB)](/ans7870/21m/21m.380/F16/MIT21M_380F16_examples.zip) (contains 1 .txt file and 19 .wav files)
 
